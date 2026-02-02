@@ -12,6 +12,7 @@ Kaggle Dogs vs Cats Dataset
 https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 Folder structure:
+
 dataset/  
 ├── cats/  
 └── dogs/
@@ -32,4 +33,5 @@ dataset/
 
 ```bash
 pip install numpy opencv-python scikit-learn matplotlib
+
 
